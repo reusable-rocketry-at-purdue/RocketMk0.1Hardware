@@ -5746,11 +5746,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <parts>
 <part name="U2" library="mc34063" deviceset="MC34063" device="AD"/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-EIA7343-10V-10%(TANT)" value="100uF"/>
-<part name="RSC" library="SparkFun-Resistors" deviceset="0.3OHM" device="-0805-1/8W-1%" value="0.5ohm"/>
+<part name="RSC" library="SparkFun-Resistors" deviceset="0.3OHM" device="-0805-1/8W-1%" value="0.75ohm"/>
 <part name="R1" library="SparkFun-Resistors" deviceset="0.3OHM" device="-0805-1/8W-1%" value="11K"/>
 <part name="R2" library="SparkFun-Resistors" deviceset="0.3OHM" device="-0805-1/8W-1%" value="18K"/>
-<part name="C2" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-EIA7343-10V-10%(TANT)" value="75uF"/>
-<part name="L1" library="SparkFun-Coils" deviceset="INDUCTOR" device="-0805-3.3UH" value="308uH"/>
+<part name="C2" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-EIA7343-10V-10%(TANT)" value="50000uf"/>
+<part name="L1" library="SparkFun-Coils" deviceset="INDUCTOR" device="-0805-3.3UH" value="50uh"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE-ZENER" device="-BZT52C3V6S" value="3.6V"/>
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -5783,7 +5783,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="BT2" library="SparkFun-Batteries" deviceset="BATTERY" device="-18650"/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND9" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="C3" library="SparkFun-Capacitors" deviceset="0.33UF/330NF" device="-0805-50V-10%" value="20nf"/>
+<part name="C3" library="SparkFun-Capacitors" deviceset="0.33UF/330NF" device="-0805-50V-10%" value="200pf"/>
 <part name="C7" library="SparkFun-Capacitors" deviceset="0.33UF/330NF" device="-0805-50V-10%" value="10nf"/>
 <part name="C6" library="SparkFun-Capacitors" deviceset="0.33UF/330NF" device="-0805-50V-10%" value="0.47uf"/>
 <part name="C4" library="SparkFun-Capacitors" deviceset="0.33UF/330NF" device="-0805-50V-10%" value="0.1uf"/>
