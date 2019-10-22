@@ -1,2 +1,8 @@
 #MacOS Desktop Files
 .DS_Store
+
+#Eagle temp files
+*.b*
+*.job
+*.pro
+*.s*
