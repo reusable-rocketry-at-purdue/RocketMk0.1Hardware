@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetDS1_2 Pin=DS2-2
+Removed Pin From Net: NetName=NetDS1_2 Pin=DS3-2
+Removed Pin From Net: NetName=NetDS1_2 Pin=DS4-2
+Removed Pin From Net: NetName=NetDS4_1 Pin=P1-1
+Removed Pin From Net: NetName=NetDS3_1 Pin=P1-2
+Removed Pin From Net: NetName=NetDS1_1 Pin=P1-5
+Removed Pin From Net: NetName=NetDS2_1 Pin=P1-6
+Removed Pin From Net: NetName=NetDS1_2 Pin=R1-2
+Added Component: Designator=R2(RESC2013X50X30NL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW080560R4FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X50X30NL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW080560R4FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X50X30NL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW080560R4FKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1_2 Pin=P1-5
+Added Pin To Net: NetName=NetDS1_1 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=NetDS2_1 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=NetDS3_1 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=NetDS4_1 Pin=R4-2
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_2 Pin=P1-6
+Added Net: Name=NetDS2_2
+Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
+Added Pin To Net: NetName=NetDS3_2 Pin=P1-2
+Added Net: Name=NetDS3_2
+Added Pin To Net: NetName=NetDS4_2 Pin=DS4-2
+Added Pin To Net: NetName=NetDS4_2 Pin=P1-1
+Added Net: Name=NetDS4_2
+Added Member To Class: ClassName=LED_Board Member=Component R2 60 O
+Added Member To Class: ClassName=LED_Board Member=Component R3 60 O
+Added Member To Class: ClassName=LED_Board Member=Component R4 60 O
+Added Room: Name=LED_Board

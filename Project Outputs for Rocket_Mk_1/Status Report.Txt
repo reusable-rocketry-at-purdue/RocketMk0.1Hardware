@@ -1,0 +1,10 @@
+Output: WireList Netlist
+Type  : WireListNetlist
+From  : Project [Rocket_Mk_1.PrjPcb]
+   Generated File[PMUVoltage_Regulation.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:00:07 PM On 11/13/2019

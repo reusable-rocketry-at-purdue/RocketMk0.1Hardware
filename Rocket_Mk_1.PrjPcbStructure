@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Power_Management_Unit.SchDoc
+Record=SheetSymbol|SourceDocument=Power_Management_Unit.SchDoc|Designator=Inter-Board I/O|SchDesignator=Inter-Board I/O|FileName=Inter_Board_IO.SchDoc|SymbolType=Normal|RawFileName=Inter_Board_IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power_Management_Unit.SchDoc|Designator=STM32F407VGT6|SchDesignator=STM32F407VGT6|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power_Management_Unit.SchDoc|Designator=Voltage Regulation|SchDesignator=Voltage Regulation|FileName=PMUVoltage_Regulation.SchDoc|SymbolType=Normal|RawFileName=PMUVoltage_Regulation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
